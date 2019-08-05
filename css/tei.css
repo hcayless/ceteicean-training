@@ -5,8 +5,9 @@ tei-body {
 tei-div {
   display: block;
 }
-tei-lb:before {
-  content: '\A';
+tei-lb::before {
+  content: '\a';
+  whitespace: pre;
 }
 tei-p {
   display:block;
