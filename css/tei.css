@@ -5,6 +5,9 @@ tei-body {
 tei-div {
   display: block;
 }
+tei-lb:before {
+  content: '\A';
+}
 tei-p {
   display:block;
 }
