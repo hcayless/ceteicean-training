@@ -7,7 +7,7 @@ tei-div {
 }
 tei-lb::before {
   content: '\a';
-  whitespace: pre;
+  white-space: pre;
 }
 tei-p {
   display:block;
