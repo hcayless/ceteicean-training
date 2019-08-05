@@ -17,7 +17,7 @@
   </teiHeader>
   <text>
       <body>
-         <p>Some text here.</p>
+         <p>Some text here. Here is another sentence.</p>
       </body>
   </text>
 </TEI>
